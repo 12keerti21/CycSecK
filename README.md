@@ -14,13 +14,15 @@ Simple session token after successful verification
 
 Minimal React UI (login, verify, welcome)
 
-Running the project
+Running the project:
+
 Backend
 cd backend
 npm install
 npm start
 
-Frontend
+Frontend:
+
 cd frontend
 npm install
 npm start
