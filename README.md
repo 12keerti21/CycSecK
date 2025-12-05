@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-OTP Hash Authentication – README
+
+OTP Hash Authentication
 1. Problem Statement
 
 Implement a simple authentication flow where an OTP is generated on the backend, hashed, and stored temporarily.
